@@ -14,6 +14,8 @@
   </b></em>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkcrow-dev&langs_count=6&show_icons=true&locale=es&layout=compact&theme=tokyonight" alt="topdarkcrow-dev" />
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=180&section=footer"/>
 <!--
 **darkcrow-dev/darkcrow-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
