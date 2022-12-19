@@ -1,6 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=180&section=header&text=Hola+👋,+me+llamo+Carlos&fontSize=35&fontColor=fff"/>
-
-<h2 align="center"> ¿Le interesa conocer un poco más de mi? </h2>
+<h1 align="center"> ¿Le interesa conocer un poco más de mi? </h1>
 
 <em><b>
   ### Lenguajes principales:
