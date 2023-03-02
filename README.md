@@ -12,7 +12,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>
   </b></em>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darkcrow-dev&langs_count=6&show_icons=true&locale=es&layout=compact&theme=tokyonight" alt="darkcrow" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darkcrow-dev&langs_count=5&show_icons=true&locale=es&layout=compact&theme=tokyonight" alt="darkcrow" />
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=180&section=footer"/>
 <!--
